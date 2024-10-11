@@ -26,8 +26,8 @@ export default function CountryList({ cities, isLoading }) {
 
   return (
     <ul className={styles.countryList}>
-      {countries.map(({ country, emoji }, index) => (
-        <CountryItem country={country} emoji={emoji} key={index} />
+      {countries.map(({ country, emoji }) => (
+        <CountryItem country={country} emoji={emoji} key={country} />
       ))}
     </ul>
   );

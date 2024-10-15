@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "17806751"
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,30 +23,6 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
-    },
-    {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": "23874384738"
-    },
-    {
-      "id": "5801",
-      "cityName": "Ourika",
-      "country": "Morocco",
-      "emoji": "🇲🇦",
-      "date": "2024-10-14T12:06:35.561Z",
-      "notes": "maro",
-      "position": {
-        "lat": "31.39115752282472",
-        "lng": "-7.778320312500001"
-      }
     },
     {
       "id": "a716",
@@ -94,6 +58,18 @@
       "position": {
         "lat": "7.667441482726068",
         "lng": "5.251464843750001"
+      }
+    },
+    {
+      "id": "1c17",
+      "cityName": "Abuja",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-10-15T17:59:19.883Z",
+      "notes": "Capital of Nigeria",
+      "position": {
+        "lat": "9.015302333420598",
+        "lng": "7.514648437500001"
       }
     }
   ]

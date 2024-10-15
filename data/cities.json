@@ -13,18 +13,6 @@
       "id": "73930385"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": "98443197"
-    },
-    {
       "id": "a716",
       "cityName": "Helechosa de los Montes",
       "country": "Spain",
@@ -70,6 +58,30 @@
       "position": {
         "lat": "9.015302333420598",
         "lng": "7.514648437500001"
+      }
+    },
+    {
+      "id": "6af7",
+      "cityName": "Strait of Gibraltar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-15T20:23:46.657Z",
+      "notes": "",
+      "position": {
+        "lat": "35.995785386420344",
+        "lng": "-5.888671875"
+      }
+    },
+    {
+      "id": "d527",
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-10-15T20:26:40.476Z",
+      "notes": "",
+      "position": {
+        "lat": "42.52069952914966",
+        "lng": "1.56005859375"
       }
     }
   ]
